@@ -65,8 +65,8 @@ st.sidebar.markdown("""
 
 ---""")
 
-#Load the LSTM Model
-model=load_model('shakespeare_lstm_model.h5')
+#Load the GRU Model
+model=load_model('shakespeare_gru_model.h5')
 
 # Load the tokenizer
 with open('tokenizer.pkl','rb') as handle:

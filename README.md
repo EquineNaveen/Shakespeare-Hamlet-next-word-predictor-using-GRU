@@ -22,6 +22,7 @@ This project demonstrates next-word prediction using an GRU-based neural network
 ## Streamlit App Interface
 
 The Streamlit app features a modern, playful interface with a sidebar for instructions and a main area for input and results:
+![alt text](<Screenshot (102).png>)
 
 ![Streamlit App Screenshot](attachments/0b7e5d7e-2b7e-4e2d-8e8b-6e0e5b3b4e5b.png)
 
